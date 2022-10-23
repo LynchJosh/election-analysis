@@ -4,7 +4,7 @@
 The purpose of this analysis was to create a voter counter to collect total votes from different districts. The goal was to find the total number of votes cast and to calculate the number of votes each candidate received. 
 
 ## Election-Audit Result 
-  -How many votes were cast in this congressional election?
+- How many votes were cast in this congressional election?
   -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   -Which county had the largest number of votes?
   -Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
