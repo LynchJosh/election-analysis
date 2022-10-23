@@ -28,8 +28,8 @@ There were three candidates
 
 Diana DeGette won the election with 73.8% of the votes  (272,892 votes)
 
-[election_analysis.txt](https://github.com/LynchJosh/election-analysis/files/9847158/election_analysis.txt)
 
+![Capture](https://user-images.githubusercontent.com/112728628/197407256-101faa38-5880-4e4d-9fc4-b758b418a6f1.PNG)
 
 
 ##Election-Audit Summary 
